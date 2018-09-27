@@ -92,9 +92,32 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.home-about {
+    background: unset !important;
+}
 
+.site-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: unset !important;
+    padding: 30px 0 !important;
+}
 
-
+.loading {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    left: 0;
+    right: 0;
+    background-image: url(../images/splash.jpg);
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+    opacity: .5;
+}
 
 
 
@@ -104,8 +127,9 @@ textarea {
 body{
   width: 100vw;
   height: 100vh;
+  background: black;
 
-  background-image: url(../images/background.png);
+  /* background-image: url(../images/splash.jpg); */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;

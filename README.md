@@ -1,6 +1,8 @@
 # annespotspourri
 
-A simple static website for my mom's pottery business. Heavily work in progress at this time, but has been a fun back-to-basics learning experince about static hosting. In my day-to-day web development work there is lots of frameworks and build procesess and bundling, and I wanted to try and make a dead simple project without spinning up seom completely overpowered framework. 
+A simple static website for my mom's pottery business. Heavily work in progress at this time, but has been a fun back-to-basics learning experince about static hosting. In my day-to-day web development work there is lots of frameworks and build procesess and bundling, and I wanted to try and make a dead simple project without spinning up seom completely overpowered framework.
+
+Note: This was built from a clone of the [s3 static starter kit repo](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication) and I will continue to reference it's initial layout for design inspiration.
 
 ### The goals:
 * Allow potential customers and fans of my mom's work to see her past and upcoming events

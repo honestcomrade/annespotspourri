@@ -1,6 +1,3 @@
-- favicon
-    - some sort of pottery .png
-
 - loader image
     - some sort of animated pottery wheel, but blend into the background
 
@@ -13,7 +10,6 @@
 - about the artist
 - upcoming events page
     - some sort of map iframe
-
 
 --- long term
 a cms?
